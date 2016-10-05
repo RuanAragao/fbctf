@@ -14,29 +14,29 @@ $translations = array(
   'Welcome to the Facebook Capture the Flag Competition. By clicking "Play," you will be entered into the official CTF challenge. Good luck in your conquest.' =>
     'Bem-vindo à Competição de Capture a Bandeira. Clicando em "Jogar", você irá entrar no desafio oficial de CTF. Boa sorta em sua conquista.',
   'Get ready for the CTF to start and access the gameboard now!' =>
-    'Get ready for the CTF to start and access the gameboard now!',
+    'Agora prepare-se para iniciar o CTF e acessar o tabuleiro!',
   'Gameboard' =>
-    'Gameboard',
+    'Tabuleiro',
   'Register Team' =>
-    'Register Team',
+    'Registrar Equipe',
   'Get ready for the CTF to start and register your team now!' =>
-    'Get ready for the CTF to start and register your team now!',
+    'Agora prepare-se para o inicio do CTF e registre sua equipe!',
   'Login' =>
-    'Login',
+    'Entrar',
   'Soon' =>
-    'Soon',
+    'Em breve',
   'Upcoming Game' =>
-    'Upcoming Game',
+    'Próximo Jogo',
   '_days' =>
-    '_days',
+    '_dias',
   '_hours' =>
-    '_hours',
+    '_horas',
   '_minutes' =>
-    '_minutes',
+    '_minutos',
   '_seconds' =>
-    '_seconds',
+    '_segundos',
   'Official CTF Rules' =>
-    'Official CTF Rules',
+    'Regras Oficiais do CTF',
   'Following actions are prohibited, unless explicitly told otherwise by event Admins.' =>
     'Following actions are prohibited, unless explicitly told otherwise by event Admins.',
   'Rule' =>
